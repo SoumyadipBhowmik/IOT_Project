@@ -17,5 +17,7 @@ null emulator - modem for emulation // https://lcgamboa.github.io/picsimlab_docs
 
 
 I'll keep updating as the file continues.
+MINI PROJECTS: 
 
 1st Project: Blinking a LED with the help of Arduino IDE.
+2nd Project: Connecting a CLCD to the arduino board and printing Home automation system on it.
