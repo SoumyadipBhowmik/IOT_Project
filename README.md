@@ -22,3 +22,12 @@ MINI PROJECTS:
 1st Project: Blinking a LED with the help of Arduino IDE.
 
 2nd Project: Connecting a CLCD to the arduino board and printing Home automation system on it.
+
+3rd Project: This is a mini project that uses a LDR sensor to Blink a LED.
+
+So, here's what happens:
+LDR resistance is perpendicular to light, MORE LIGGHT = LESS RESISTANCE and vice versa
+1. During night time, as the LDR resistance increases upto 1 ohm, it turns the LED on. 
+2. During bright daylight, resistance  decreases (in theory to 0 ohm but in practical it is more than 0) and turns LED OFF. 
+
+USE CASE: GARDEN LIGHTS IN RESPECTIVE TO SUNLIGHT.
