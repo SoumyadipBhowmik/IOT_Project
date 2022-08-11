@@ -1,33 +1,23 @@
-# IOT_Project
-Building IOT Project
-IOT Project Using PicsimLab Simulator.
+**/*************************************************************
+Title         :   Home automation using blynk
+Description   :   To control light's brigntness with brightness,monitor temperature , monitor water level in the tank through blynk app
+Pheripherals  :   Arduino UNO , Temperature system, LED, LDR module, Serial Tank, Blynk cloud, Blynk App.
+****************************************************************/
+ 
+Created by: **Soumyadip Bhowmik**
+Mega Project Submitted on 15th August 2022
 
-CONFIGURATION: I'm using a Windows 11 with 8 gigs of RAM and I5 12TH GEN Processor.
+Things We require: 
+1. Arduino IDE: IDE used to code the project
+2. Picsim Lab Simulatot: Simulates Arduino Uno
+3. Null Emulator : Connects Picsimlab simulator to Arduino IDE
+4. Blynk IOT application
 
-IOT Project Requirements and their Download Links
+Mini Projects: 
+1. LED
+2. CLCD
+3. PWM
 
-Arduino IDE - for typing codes // https://www.arduino.cc/en/software
+Mega Project: Home Automation: Garden Lights Automation using LDR sensor, Temperature Conditioner and displaying it on a Dashboard, Serial Tank automation with set of Instructions.
 
-Picsimlab simulator - virtual emulation of the real world IOT Project // https://rb.gy/dsbizr
-
-null emulator - modem for emulation // https://lcgamboa.github.io/picsimlab_docs/0.8.8/Serial_Communication.html
-
-
-
-
-
-I'll keep updating as the file continues.
-MINI PROJECTS: 
-
-IMPLEMENTATION: Blinking a LED with the help of Arduino IDE.
-
-IMPLEMENTATION: Connecting a CLCD to the arduino board and printing Home automation system on it.
-
-1st Project: This is a mini project that uses a LDR sensor to Blink a LED.
-
-So, here's what happens:
-LDR resistance is perpendicular to light, MORE LIGGHT = LESS RESISTANCE and vice versa
-1. During night time, as the LDR resistance increases upto 1 ohm, it turns the LED on. 
-2. During bright daylight, resistance  decreases (in theory to 0 ohm but in practical it is more than 0) and turns LED OFF. 
-
-USE CASE: GARDEN LIGHTS IN RESPECTIVE TO SUNLIGHT.
+Thank You.
