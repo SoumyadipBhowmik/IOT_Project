@@ -1,6 +1,6 @@
 ### INTERNSHIP PROJECT 2022
 # Home automation using blynk
-###### To control light's brigntness with brightness, monitor temperature and monitor water level in a water tank through blynk app
+###### Home Automation: Garden Lights Automation using LDR sensor, Temperature Conditioner and displaying it on a Dashboard, Serial Tank automation with set of Instructions.
 
 Created with the help of <img src="Readme\emertxe.png" alt="Emertxe logo">
 
@@ -17,9 +17,7 @@ Tools Used
 ```
 ***
 
-### Project
-
-***Home Automation: Garden Lights Automation using LDR sensor, Temperature Conditioner and displaying it on a Dashboard, Serial Tank automation with set of Instructions.***
+Video Explaination <a href = "https://www.youtube.com/watch?v=_0EtCARlhIM"><i>here.</a>
 
 <details>
 <summary><strong>Misc Mini Learning Projects</strong></summary>
