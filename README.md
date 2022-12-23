@@ -11,7 +11,7 @@ Created with the help of <img src="Readme\emertxe.png" alt="Emertxe logo">
 ```
 Tools Used
 1. Arduino IDE: IDE used to code the project
-2. Picsim Lab Simulatot: Simulates Arduino Uno
+2. Picsim Lab Simulator: Simulates Arduino Uno
 3. Null Emulator : Connects Picsimlab simulator to Arduino IDE
 4. Blynk IOT application
 ```
